@@ -1,95 +1,85 @@
-<!-- 💻 Perfil Profesional - Willians Malque -->
+# 👋 ¡Hola! Soy Willians Malque  
 
-<h1 align="center">👋 ¡Hola, soy Willians Malque!</h1>
-<h3 align="center">Desarrollador Web, Móvil e IoT | Enfocado en Ciberseguridad e Innovación Tecnológica 🚀</h3>
-
----
-
-### 🧭 Sobre mí
-
-🎓 **Egresado de Diseño y Desarrollo de Software** en [TECSUP – Arequipa, Perú](https://www.tecsup.edu.pe)  
-💡 Apasionado por el desarrollo **web, móvil e IoT**, con enfoque en **seguridad informática** y **eficiencia de sistemas**.  
-⚙️ Me considero una persona **proactiva, adaptable** y comprometida con la **mejora continua**.  
-🌱 Actualmente aprendiendo sobre **Análisis de Datos** y **Arquitectura Limpia en .NET**.
+🎓 **Egresado de Diseño y Desarrollo de Software en TECSUP (Arequipa, Perú)**  
+💡 Apasionado por el **desarrollo web, móvil e IoT**, con un **especial interés en la seguridad informática**.  
+🔍 Me enfoco en crear soluciones eficientes, seguras y escalables, aplicando **metodologías ágiles** y un enfoque analítico orientado a la calidad.  
+🚀 Soy **proactivo, adaptable y comprometido** con la innovación tecnológica y el aprendizaje continuo.
 
 ---
 
-### 🧰 Tecnologías y Herramientas
+## 💼 Experiencia Laboral
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 💼 Experiencia Laboral
-
-#### 🧪 GRUPO MOSS S.R.L – *Pasante en Innovación e Investigación*  
+### 🧠 GRUPO MOSS S.R.L | *Pasante en Innovación e Investigación*  
 📍 Remoto | 📅 Dic 2024 – Ene 2025  
-- Diseñé base de datos en **MySQL** y desarrollé **APIs con Node.js** para gestión de eventos deportivos.  
-- Implementé interfaz con **React** y documentación técnica bajo metodología **Scrum**.  
-- Mejoré un **70 % la eficiencia del proceso** y logré un **90 % de avance del sistema**.
+- Diseñé bases de datos en **MySQL** y desarrollé **APIs con Node.js** para la gestión de eventos deportivos.  
+- Implementé una **interfaz en React** y documenté técnicamente el sistema.  
+- Apliqué la metodología **Scrum** en trabajo remoto individual utilizando **Microsoft Teams**.  
+- Logré un **90 % de avance** del sistema y mejoré en **70 % la eficiencia** del proceso de inscripción.
 
-#### 🌐 FIBERTEL NETWORKS S.A.C – *Pasante en Innovación e Investigación*  
+### 🌐 FIBERTEL NETWORKS S.A.C | *Pasante en Innovación e Investigación*  
 📍 Arequipa | 📅 Jul 2024 – Ago 2024  
-- Desarrollé una réplica del sitio **Daytona** en **WordPress (Divi)**, con más de 40 páginas funcionales.  
-- Logré un **95 % de similitud** en estructura y experiencia de usuario.  
-
-#### 🗳️ ONPE – *Coordinador de Mesa*  
-📍 Arequipa | 📅 Sept – Oct 2022  
-- Coordiné 3 mesas y capacité a 18 miembros en normativa electoral.  
-- Resolví el **90 % de incidentes** y cumplí con el **95 % de tareas asignadas**.
+- Desarrollé una réplica funcional del sitio web de **Daytona** en **WordPress** utilizando el tema **Divi**.  
+- Construí más de **40 páginas**, adaptando estructuras modulares y contenidos diversos.  
+- Realicé pruebas de **navegación, rendimiento y diseño responsivo** en múltiples dispositivos.  
+- Alcancé un **95 % de similitud** en funcionalidad, estructura y experiencia de usuario.
 
 ---
 
-### 🎓 Formación Académica
+## 🎓 Formación Académica
 
 **TECSUP – Instituto Superior Tecnológico**  
-📍 Arequipa, Perú | 🕓 2022 – 2025  
-🎓 *Carrera Profesional:* Diseño y Desarrollo de Software  
+📍 Arequipa, Perú  
+🎓 *Carrera Profesional: Diseño y Desarrollo de Software*  
+📅 Egresado | 2022 – 2025
 
 ---
 
-### 🧠 Certificaciones
+## 🧾 Otras Experiencias / Servicios Complementarios
 
-- 🛡️ **Ciberseguridad** – UNI CTIC  
-- ☁️ **Cloud Computing**  
-- 📜 **ISO 9001**  
-- ⚙️ **Lean Six Sigma White Belt**  
-- 🌀 **Scrum Fundamentals Certified**
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliansMalque&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliansMalque&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 🗳 Oficina Descentralizada de Procesos Electorales (ODPE) – ONPE  
+📍 Arequipa, Perú | 📅 Sept 2022 – Oct 2022  
+**Cargo:** Coordinador de Mesa  
+- Coordiné **3 mesas de sufragio** y **capacité a 18 miembros** de mesa en normativa electoral.  
+- Entregué materiales, resolví conflictos y apoyé a autoridades (JNE, PNP, FF.AA.).  
+- Logré un **95 % de cumplimiento** de tareas asignadas y resolución efectiva del **90 % de incidentes**.
 
 ---
 
-### 🌍 Conecta conmigo
+## 🧰 Tecnologías y Herramientas
 
-<p align="center">
-  <a href="mailto:williansmalque76@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/willians-malque"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://williansmalque.github.io"><img src="https://img.shields.io/badge/Portafolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-</p>
+💻 **Lenguajes y Frameworks:**  
+`ASP.NET Core` · `React` · `Node.js` · `Express` · `Flutter` · `MySQL`  
+
+🧪 **Herramientas:**  
+`Git/GitHub` · `Postman` · `Swagger` · `WordPress`  
 
 ---
 
-### ⚡ Frase que me inspira
+## 🌐 Idiomas y Certificaciones
 
-> *“El aprendizaje constante es la base del crecimiento profesional y personal.”* ✨
+- 🇬🇧 **Inglés – Nivel Intermedio (B1)**, certificado por *Conversa Language School by TECSUP*  
+- 🎓 **Certificaciones:**  
+  - Ciberseguridad  
+  - Cloud Computing  
+  - ISO 9001  
+  - Lean Six Sigma White Belt  
+  - Scrum Fundamentals  
 
-⭐ *Gracias por visitar mi perfil. Si te gusta mi trabajo, ¡no olvides dejar una estrella en mis proyectos!*
+---
+
+## 💭 Intereses
+
+🔹 Innovación tecnológica  
+🔹 Ciberseguridad  
+🔹 Desarrollo de software  
+🔹 Análisis de datos  
+🔹 Mejora continua  
+
+---
+
+## 📫 Contacto
+
+📧 **Correo:** [williansmalque76@gmail.com](mailto:williansmalque76@gmail.com)  
+💼 **LinkedIn:** [www.linkedin.com/in/willians-malque](https://www.linkedin.com/in/willians-malque)  
+🐙 **GitHub:** [github.com/WilliansMalque](https://github.com/WilliansMalque)  
+📱 **Celular:** +51 940185343  
