@@ -1,9 +1,15 @@
-# 👋 ¡Hola! Soy Willians Malque  
+<h1 align="center">👋 ¡Hola, soy Willians Malque!</h1>
 
-🎓 **Egresado de Diseño y Desarrollo de Software en TECSUP (Arequipa, Perú)**  
-💡 Apasionado por el **desarrollo web, móvil e IoT**, con un **especial interés en la seguridad informática**.  
-🔍 Me enfoco en crear soluciones eficientes, seguras y escalables, aplicando **metodologías ágiles** y un enfoque analítico orientado a la calidad.  
-🚀 Soy **proactivo, adaptable y comprometido** con la innovación tecnológica y el aprendizaje continuo.
+<p align="center">
+  🎓 Egresado de <b>Diseño y Desarrollo de Software</b> en <b>TECSUP (Arequipa, Perú)</b><br>
+  💻 Desarrollador web, móvil e IoT con interés en <b>ciberseguridad</b> y <b>arquitectura limpia</b><br>
+  🚀 Apasionado por la innovación, el aprendizaje continuo y las buenas prácticas de desarrollo.
+</p>
+
+---
+
+### 🌐 Portafolio Personal  
+🎨 **[https://williansmalque.github.io/](https://williansmalque.github.io/)**  
 
 ---
 
@@ -11,17 +17,16 @@
 
 ### 🧠 GRUPO MOSS S.R.L | *Pasante en Innovación e Investigación*  
 📍 Remoto | 📅 Dic 2024 – Ene 2025  
-- Diseñé bases de datos en **MySQL** y desarrollé **APIs con Node.js** para la gestión de eventos deportivos.  
-- Implementé una **interfaz en React** y documenté técnicamente el sistema.  
-- Apliqué la metodología **Scrum** en trabajo remoto individual utilizando **Microsoft Teams**.  
+- Diseñé bases de datos en **MySQL** y desarrollé **APIs con Node.js** para gestión de eventos deportivos.  
+- Implementé una **interfaz en React** y documentación técnica para continuidad del proyecto.  
+- Apliqué metodología **Scrum** en trabajo remoto individual.  
 - Logré un **90 % de avance** del sistema y mejoré en **70 % la eficiencia** del proceso de inscripción.
 
 ### 🌐 FIBERTEL NETWORKS S.A.C | *Pasante en Innovación e Investigación*  
 📍 Arequipa | 📅 Jul 2024 – Ago 2024  
-- Desarrollé una réplica funcional del sitio web de **Daytona** en **WordPress** utilizando el tema **Divi**.  
-- Construí más de **40 páginas**, adaptando estructuras modulares y contenidos diversos.  
-- Realicé pruebas de **navegación, rendimiento y diseño responsivo** en múltiples dispositivos.  
-- Alcancé un **95 % de similitud** en funcionalidad, estructura y experiencia de usuario.
+- Desarrollé una réplica del sitio **Daytona** en **WordPress (Divi)** con más de 40 páginas.  
+- Realicé pruebas de **rendimiento y diseño responsivo** en múltiples dispositivos.  
+- Alcancé un **95 % de similitud** en funcionalidad y experiencia de usuario.
 
 ---
 
@@ -34,24 +39,18 @@
 
 ---
 
-## 🧾 Otras Experiencias / Servicios Complementarios
-
-### 🗳 Oficina Descentralizada de Procesos Electorales (ODPE) – ONPE  
-📍 Arequipa, Perú | 📅 Sept 2022 – Oct 2022  
-**Cargo:** Coordinador de Mesa  
-- Coordiné **3 mesas de sufragio** y **capacité a 18 miembros** de mesa en normativa electoral.  
-- Entregué materiales, resolví conflictos y apoyé a autoridades (JNE, PNP, FF.AA.).  
-- Logré un **95 % de cumplimiento** de tareas asignadas y resolución efectiva del **90 % de incidentes**.
-
----
-
 ## 🧰 Tecnologías y Herramientas
 
-💻 **Lenguajes y Frameworks:**  
-`ASP.NET Core` · `React` · `Node.js` · `Express` · `Flutter` · `MySQL`  
-
-🧪 **Herramientas:**  
-`Git/GitHub` · `Postman` · `Swagger` · `WordPress`  
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+</p>
 
 ---
 
@@ -77,9 +76,23 @@
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WilliansMalque&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliansMalque&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
 ## 📫 Contacto
 
 📧 **Correo:** [williansmalque76@gmail.com](mailto:williansmalque76@gmail.com)  
 💼 **LinkedIn:** [www.linkedin.com/in/willians-malque](https://www.linkedin.com/in/willians-malque)  
 🐙 **GitHub:** [github.com/WilliansMalque](https://github.com/WilliansMalque)  
+🌐 **Portafolio:** [williansmalque.github.io](https://williansmalque.github.io)  
 📱 **Celular:** +51 940185343  
+
+---
+
+⭐ *“La tecnología avanza, pero la pasión por aprender es lo que realmente impulsa el cambio.”*  
