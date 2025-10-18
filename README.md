@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola, soy Willians Malque!
 
-### Desarrollador Full Stack | Especialista en Ciberseguridad | Egresado de TECSUP
+### Desarrollador Full Stack | Aprendiendo Ciberseguridad | Egresado de TECSUP
 
 <p>
   <a href="https://williansmalque.github.io/" target="_blank">
@@ -25,19 +25,17 @@
 
 ## 🚀 Sobre Mí
 
-```javascript
-const willians = {
-    ubicacion: "Arequipa, Perú 🇵🇪",
-    educacion: "Egresado de Diseño y Desarrollo de Software - TECSUP",
-    rol: "Desarrollador Full Stack",
-    especialidades: ["Desarrollo Web", "Desarrollo Móvil", "IoT", "Ciberseguridad"],
-    metodologias: ["Scrum", "Arquitectura Limpia", "TDD"],
-    actualmente: "Buscando nuevas oportunidades y desafíos tecnológicos",
-    mentalidad: "Aprendizaje continuo e innovación constante"
-};
-```
+- 🎓 **Egresado** de Diseño y Desarrollo de Software en **TECSUP**
+- 📍 Ubicado en **Arequipa, Perú** 🇵🇪
+- 💼 **Desarrollador Full Stack** con experiencia en desarrollo web y móvil
+- 🔐 Actualmente aprendiendo **Ciberseguridad** y profundizando en protección de sistemas
+- 🛠️ Aplico metodologías ágiles como **Scrum** y principios de **Arquitectura Limpia**
+- 🌱 En constante **aprendizaje** e **innovación**
+- 🎯 Buscando nuevas **oportunidades** y **desafíos tecnológicos**
 
-**💡 Mi enfoque:** Crear soluciones tecnológicas robustas, seguras y escalables aplicando las mejores prácticas de desarrollo y un pensamiento analítico orientado a la calidad y eficiencia.
+### 💡 Mi Enfoque
+
+Crear soluciones tecnológicas **robustas**, **seguras** y **escalables** aplicando las mejores prácticas de desarrollo y un pensamiento analítico orientado a la **calidad** y **eficiencia**.
 
 ---
 
@@ -46,12 +44,10 @@ const willians = {
 ### 🏢 GRUPO MOSS S.R.L
 **Pasante en Innovación e Investigación** | *Remoto* | `Dic 2024 - Ene 2025`
 
-```diff
-+ Diseño de base de datos MySQL y desarrollo de APIs RESTful con Node.js
-+ Implementación de interfaz moderna con React y documentación técnica completa
-+ Aplicación de metodología Scrum en entorno remoto individual
-! Logros: 90% de avance del sistema | Mejora del 70% en eficiencia de inscripciones
-```
+- ✅ Diseñé base de datos en **MySQL** y desarrollé **APIs RESTful** con **Node.js** para gestión de eventos deportivos
+- ✅ Implementé interfaz moderna con **React** y documentación técnica completa
+- ✅ Apliqué metodología **Scrum** en entorno remoto individual
+- 🎯 **Logros:** 90% de avance del sistema | Mejora del 70% en eficiencia de inscripciones
 
 **Stack utilizado:** `Node.js` `Express` `React` `MySQL` `Swagger` `Microsoft Teams`
 
@@ -60,12 +56,10 @@ const willians = {
 ### 🌐 FIBERTEL NETWORKS S.A.C
 **Pasante en Innovación e Investigación** | *Arequipa* | `Jul 2024 - Ago 2024`
 
-```diff
-+ Desarrollo de réplica funcional del sitio Daytona en WordPress con Divi
-+ Construcción de +40 páginas con estructuras modulares y contenido diverso
-+ Pruebas exhaustivas de rendimiento, navegación y diseño responsivo
-! Logro: 95% de similitud en funcionalidad y experiencia de usuario
-```
+- ✅ Desarrollé réplica funcional del sitio Daytona en **WordPress** con **Divi**
+- ✅ Construí más de **40 páginas** con estructuras modulares y contenido diverso
+- ✅ Realicé pruebas exhaustivas de rendimiento, navegación y diseño responsivo
+- 🎯 **Logro:** 95% de similitud en funcionalidad y experiencia de usuario
 
 **Stack utilizado:** `WordPress` `Divi` `PHP` `CSS3` `Responsive Design`
 
@@ -75,7 +69,7 @@ const willians = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📚 Educación
 **TECSUP - Instituto Superior Tecnológico**  
@@ -83,21 +77,23 @@ const willians = {
 📍 Arequipa, Perú  
 📅 2022 - 2025 | **Egresado**
 
+---
+
 ### 🌍 Idiomas
 - 🇪🇸 **Español:** Nativo
 - 🇬🇧 **Inglés:** Intermedio (B1)  
   *Certificado por Conversa Language School - TECSUP*
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏆 Certificaciones
 
-<img src="https://img.shields.io/badge/🔐_Ciberseguridad-4CAF50?style=flat-square"/>
-<img src="https://img.shields.io/badge/☁️_Cloud_Computing-2196F3?style=flat-square"/>
-<img src="https://img.shields.io/badge/📋_ISO_9001-FF9800?style=flat-square"/>
-<img src="https://img.shields.io/badge/📊_Lean_Six_Sigma-9C27B0?style=flat-square"/>
-<img src="https://img.shields.io/badge/🏃_Scrum_Fundamentals-F44336?style=flat-square"/>
+- 🔐 **Ciberseguridad**
+- ☁️ **Cloud Computing**
+- 📋 **ISO 9001**
+- 📊 **Lean Six Sigma White Belt**
+- 🏃 **Scrum Fundamentals**
 
 </td>
 </tr>
@@ -125,9 +121,8 @@ const willians = {
 
 ### 🗄️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔧 Herramientas y Otros
+### 🔧 Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -152,36 +147,18 @@ const willians = {
 
 ## 🎯 Áreas de Interés
 
-<table>
-<tr>
-<td align="center" width="20%">
-  <img src="https://img.icons8.com/color/96/000000/code.png" width="48" height="48"/>
-  <br><strong>Desarrollo de Software</strong>
-</td>
-<td align="center" width="20%">
-  <img src="https://img.icons8.com/color/96/000000/cyber-security.png" width="48" height="48"/>
-  <br><strong>Ciberseguridad</strong>
-</td>
-<td align="center" width="20%">
-  <img src="https://img.icons8.com/color/96/000000/cloud.png" width="48" height="48"/>
-  <br><strong>Cloud Computing</strong>
-</td>
-<td align="center" width="20%">
-  <img src="https://img.icons8.com/color/96/000000/internet-of-things.png" width="48" height="48"/>
-  <br><strong>Internet of Things</strong>
-</td>
-<td align="center" width="20%">
-  <img src="https://img.icons8.com/color/96/000000/data-analytics.png" width="48" height="48"/>
-  <br><strong>Análisis de Datos</strong>
-</td>
-</tr>
-</table>
+- 💻 **Desarrollo de Software** - Creación de aplicaciones web y móviles
+- 🔐 **Ciberseguridad** - Protección y seguridad de sistemas (Aprendiendo)
+- ☁️ **Cloud Computing** - Soluciones en la nube
+- 🌐 **Internet of Things** - Dispositivos conectados
+- 📊 **Análisis de Datos** - Interpretación y visualización de información
+- 🏗️ **Arquitectura Limpia** - Diseño de software mantenible y escalable
 
 ---
 
 ## 🌟 Proyectos Destacados
 
-> 🔜 Próximamente: Proyectos personales en GitHub enfocados en ciberseguridad y desarrollo full stack
+> 🔜 Próximamente: Proyectos personales en GitHub enfocados en desarrollo full stack y ciberseguridad
 
 ---
 
@@ -203,30 +180,11 @@ const willians = {
 
 ---
 
-## 💭 Filosofía de Desarrollo
+<div align="center">
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Willians Malque"
-        self.mindset = ["Clean Code", "SOLID Principles", "Continuous Learning"]
-        self.passion = "Building secure and scalable solutions"
-    
-    def daily_routine(self):
-        return [
-            "Learn something new 📚",
-            "Write clean code 💻",
-            "Review and refactor 🔍",
-            "Share knowledge 🤝"
-        ]
-    
-    def life_quote(self):
-        return "La tecnología avanza, pero la pasión por aprender es lo que realmente impulsa el cambio 🚀"
-```
+### ⭐ *"La tecnología avanza, pero la pasión por aprender es lo que realmente impulsa el cambio"* 🚀
 
 ---
-
-<div align="center">
 
 ### ⭐ Si te gusta mi trabajo, no olvides darle una estrella a mis repositorios ⭐
 
